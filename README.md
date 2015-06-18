@@ -1,5 +1,7 @@
 # Dropbox Uploader
 
+[![Join the chat at https://gitter.im/bpkg/dbu](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/bpkg/dbu?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Dropbox Uploader is a **BASH** script which can be used to upload, download, delete, list files (and more!) from **Dropbox**, an online file sharing, synchronization and backup service. 
 
 It's written in BASH scripting language and only needs **cURL**.
